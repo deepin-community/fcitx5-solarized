@@ -1,0 +1,9 @@
+After installing this package, you can change the theme in fcitx5-configtool:
+
+1. Open "Fcitx 5 Configuration" from desktop menu.
+2. Open Addon configuration tab.
+3. Configure the "Classic User Interface".
+4. Change the theme.
+
+To run fcitx5-configtool, you need to install fcitx5-config-qt or
+kde-config-fcitx5 (only for KDE users).
